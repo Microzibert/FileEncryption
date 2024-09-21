@@ -11,13 +11,13 @@
 2. Clone the repository to your computer or download all files and place them in one folder:
 
     ```bash
-    git clone https://github.com/Microzibert/PhotoEncrypter.git
+    git clone https://github.com/Microzibert/FileEncryption.git
     ```
 
 3. Navigate to the project directory:
 
     ```bash
-    cd PhotoEncrypter
+    cd FileEncryption
     ```
 
 4. Install the dependencies:
