@@ -17,7 +17,7 @@
 3. Navigate to the project directory:
 
     ```bash
-    cd FileEncryptor
+    cd PhotoEncrypter
     ```
 
 4. Install the dependencies:
