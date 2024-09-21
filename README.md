@@ -11,7 +11,7 @@
 2. Clone the repository to your computer or download all files and place them in one folder:
 
     ```bash
-    git clone https://github.com/your-repo/FileEncryptor.git
+    git clone https://github.com/Microzibert/PhotoEncrypter.git
     ```
 
 3. Navigate to the project directory:
